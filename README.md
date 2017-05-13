@@ -1,8 +1,8 @@
-# PB Design System 
+# PB Design System
 
-This repo is for distribution of the Design System on `bower` and `npm`. 
+This repo is for distribution of the Design System on `bower` and `npm`.
 
-##Bower Install
+## Bower Install
 You can install this package with `bower`:
 
 ```shell
@@ -15,7 +15,7 @@ Then add a link tag in the document head AFTER the Bootstrap CSS:
 <link rel="stylesheet" href="bower_components/pb-design-system/dist/css/design_system.css">
 ```
 
-##npm Install
+## npm Install
 You can install this package with `npm`:
 
 ```shell
@@ -28,7 +28,7 @@ Then add a link tag in the document head AFTER the Bootstrap CSS:
 <link rel="stylesheet" href="node_modules/pb-design-system/dist/css/design_system.css">
 ```
 
-##Sass
+## Sass
 Reference the Design System .scss variables within your application Sass file to use the variables:
 
 ```scss
